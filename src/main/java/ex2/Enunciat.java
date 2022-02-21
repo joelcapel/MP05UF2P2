@@ -2,7 +2,7 @@ package ex2;
 
 public class Enunciat {
 /*
-    1. Copia la classe HashTable.java del package "original" a "ex1" i munta-hi un joc de proves per als mètodes "put",
+    1. Copia la classe HashTable.java del package "original" a "ex2" i munta-hi un joc de proves per als mètodes "put",
        "get" , "drop" , "count" i "size". Dins els jocs de proves pots fer servir el mètode "toString" que proporciona
        la taula de hash per a obtenir una cadena de text que representa el seu contingut.
 
@@ -137,7 +137,6 @@ public class Enunciat {
             Inserir un element que no col·lisiona dins una taula no vuida.
             Inserir un element que col·lisiona dins una taula no vuida, que es col·locarà en 2a posició dins el mateix bucket.
             Inserir un element que col·lisiona dins una taula no vuida, que es col·locarà en 3a posició dins el mateix bucket.
-            Inserir un elements que ja existeix (update) sobre un element que no col·lisiona dins una taula vuida.
             Inserir un elements que ja existeix (update) sobre un element que no col·lisiona dins una taula no vuida.
             Inserir un elements que ja existeix (update) sobre un element que si col·lisiona (2a posició) dins una taula no vuida.
             Inserir un elements que ja existeix (update) sobre un element que si col·lisiona (3a posició) dins una taula no vuida.

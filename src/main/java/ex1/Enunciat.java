@@ -15,3 +15,14 @@ public class Enunciat {
              acabes de fer en aquest exercici.
 */
 }
+//TODO Falta Grabar video!!!
+/**
+ * Paso 1 completado
+ * -- Para implementar maven lo que tenemos que hacer es darle click derecho a la carpeta del proyecto y añadir un new framework support,
+ * -- añadimos maven y una vez hecho aparecera un archivo llamado pom.xml, lo editamos añadiendo ciertos plugins y ya lo tendriamos.
+ * Paso 2 completado
+ * -- Para subir el proyecto a GitHub lo que hay que hacer es en la pestaña VCS, clickar en share this project on GitHub, le ponemos el
+ * -- nombre que queramos y ya lo tendriamos publicado. Una vez en GitHub nos dirigimos al repositorio del proyecto, entramos en la pestaña
+ * -- actions y creamos un workflow, editamos el fichero y lo tendriamos.
+ * Paso 3 falta
+ */
